@@ -41,10 +41,12 @@
  width="40" height="40"/> </a> </p>
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&langs_count=5&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" /> 
 </p>
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamahdidou&show_icons=true&locale=en&layout=compact" />
+
 </p>
+
 
 
