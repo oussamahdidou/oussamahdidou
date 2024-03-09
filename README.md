@@ -43,6 +43,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&langs_count=10&theme=tokyonight" />
  <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" /> 
+ <img src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=2&column=3"/>
 </p>
 <p>
 
