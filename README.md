@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular, .NET**
+- 🌱 I’m a  **Angular, .NET** Develloper
 
 
 
