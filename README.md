@@ -43,10 +43,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&langs_count=5&theme=tokyonight" />
  <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" /> 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=6"/>
-</p>
-<p>
 
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" /> 
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=3"/>
 </p>
 
 
