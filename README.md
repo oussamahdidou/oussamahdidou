@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Everything related to modern technologies on the web**
 
-- 📫 How to reach me **ou.prof2002@gmail.com**
+- 📫 How to reach me **oussama.hdidou.pro@gmail.com**
 
 - 📄 Know about my experiences ("Resume Coming Soon")
 
