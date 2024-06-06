@@ -49,10 +49,10 @@
 <table  style="width: 100%;" align="center">
   <tr>
     <td style="width: 50%;">
-       <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=false&theme=tokyonight&showicons=true" alt="GitHub Stats" style="width: 100%;"/>
+       <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" style="width: 100%;"/>
     </td >
     <td rowspan="2" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&langs_count=9&theme=tokyonight" alt="Top Languages" style="width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Languages" style="width: 100%;"/>
     </td>
   </tr>
   <tr>
