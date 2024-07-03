@@ -49,6 +49,15 @@
  <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"  width="40" height="40" />
  </a>
+ <a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  width="40" height="40"  />
+</a>
+ <a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg"  width="40" height="40"   />
+</a>
+ <a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"   width="40" height="40"    />
+          </a>
 </p>
 
 
