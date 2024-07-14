@@ -68,7 +68,7 @@
 
 
 
-<h3 align="left">My Stats and Trophies : </h3>
+<h3 align="left">Stats and Trophies : </h3>
 
 <table  style="width: 100%;" align="center">
   <tr>
