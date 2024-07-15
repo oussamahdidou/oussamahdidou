@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **oussama.hdidou.pro@gmail.com**
 
-- 📄 Know about my experiences <a href="download_3.pdf" target="blank" >My Resume</a>
+- 📄 Know about my experiences [My Resume](download_3.pdf){:target="_blank" rel="noopener noreferrer"}
+
 
 
 
