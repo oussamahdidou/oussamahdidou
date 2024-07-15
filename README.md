@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oussama.hdidou.pro@gmail.com**
 
-- 📄 Know about my experiences ("Resume Coming Soon")
+- 📄 Know about my experiences <a href="download_3.pdf">My Resume</a>
 
 
 
