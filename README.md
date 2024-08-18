@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/322335a9-d35d-4d4e-8333-8bf4c9f4f3b6)
+
 
 <h1 align="center">Hi 👋, I'm Oussama Hdidou <img src="https://komarev.com/ghpvc/?username=oussamahdidou&abbreviated=true"  /></h1>
 <h3 align="center">A passionate Full stack developer, Software Engineer, and Business Intelligence student from Morocco</h3>
