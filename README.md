@@ -18,7 +18,7 @@
 - 💬 Ask me about **Everything related to modern technologies on the web**
 
 - 📫 How to reach me **oussama.hdidou.pro@gmail.com**
-- 📄 Know about my experiences **https://my-portfolio-rosy-nu.vercel.app/**
+- 📄 Know about my experiences **https://oussamahdidou.vercel.app/**
 - 📄 Know about my experiences [My Resume](download_3.pdf)
 
 
