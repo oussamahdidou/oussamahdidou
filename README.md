@@ -74,21 +74,21 @@
 <table  style="width: 100%;" align="center">
   <tr>
     <td style="width: 50%;">
-       <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" style="width: 100%;"/>
+       <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true&token=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" alt="GitHub Stats" style="width: 100%;"/>
     </td >
     <td rowspan="2" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=9" alt="Top Languages" style="width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=9&token=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" alt="Top Languages" style="width: 100%;"/>
     </td>
   </tr>
   <tr>
     <td style="width: 50%;">
-      <img src="https://streak-stats.demolab.com/?user=oussamahdidou&theme=dark" alt="GitHub Streak" style="width: 100%;">
+      <img src="https://streak-stats.demolab.com/?user=oussamahdidou&theme=dark&token=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" alt="GitHub Streak" style="width: 100%;">
     </td>
   </tr>
 </table>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=6"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=6&token=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"/>
 </p>
 
 
