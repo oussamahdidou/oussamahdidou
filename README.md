@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Oussama Hdidou <img src="https://komarev.com/ghpvc/?username=oussamahdidou&abbreviated=true"  /></h1>
+<h1 align="center">Hi 👋, I'm Oussama Hdidou <img src="https://komarev.com/ghpvc/?username=oussamahdidou"  /></h1>
 <h3 align="center">A passionate Full stack developer, Software Engineer, and Business Intelligence student from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
