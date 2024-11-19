@@ -62,7 +62,7 @@
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=6"/>
 </p>
-<h3 align="center">My Contributions</h3>
+<h3 align="left">Contributions</h3>
 <p align="center" >
  <img  src="https://raw.githubusercontent.com/oussamahdidou/oussamahdidou/output/github-contribution-grid-snake.svg"/>
 </p>
