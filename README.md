@@ -63,8 +63,18 @@
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=oussamahdidou&theme=onedark&row=1&column=6"/>
 </p>
-<h3 align="left">Contributions</h3>
+<h3 align="left">Contributions : </h3>
 <p align="center" >
  <img  src="https://raw.githubusercontent.com/oussamahdidou/oussamahdidou/output/github-contribution-grid-snake.svg"/>
 </p>
 
+<h3 align="left">Repositories : </h3>
+<p align="center" >
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=microservices"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=RH-system-management-and-ChatBot"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=plastic-pollution-detection"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=inventory-manager-springboot-react"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=Movies-Room-react-typescript"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=traveling-booking"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=e-learning"/>
+</p>
