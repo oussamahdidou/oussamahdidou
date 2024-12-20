@@ -72,7 +72,7 @@
 <p align="center" >
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=microservices&theme=default"/>
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=RH-system-management-and-ChatBot&theme=default"/>
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=plastic-pollution-detection&theme=default"/>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=plastic-pollution-detection&theme=light"/>
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=inventory-manager-springboot-react&theme=default"/>
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=Movies-Room-react-typescript&theme=default"/>
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=traveling-booking&theme=default"/>
