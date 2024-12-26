@@ -50,7 +50,7 @@
        <img src="https://github-readme-stats.vercel.app/api/?username=oussamahdidou&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" style="width: 100%;"/>
     </td >
     <td rowspan="2" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=9" alt="Top Languages" style="width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamahdidou&theme=tokyonight&hide=jupyter%20notebook&langs_count=9" alt="Top Languages" style="width: 100%;"/>
     </td>
   </tr>
   <tr>
