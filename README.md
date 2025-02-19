@@ -81,5 +81,5 @@
 </p>
 <h3 align="left">QR Code : </h3>
 <p align="center" >
-  <img  src="qrcode_oussamahdidou.vercel.app.png"/>
+  <img  width="300"  src="qrcode_oussamahdidou.vercel.app.png"/>
 </p>
