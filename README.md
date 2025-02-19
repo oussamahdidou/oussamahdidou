@@ -79,3 +79,7 @@
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=traveling-booking&theme=default"/>
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=oussamahdidou&repo=e-learning&theme=default"/>
 </p>
+<h3 align="left">QR Code : </h3>
+<p align="center" >
+  <img  src="qrcode_oussamahdidou.vercel.app.png"/>
+</p>
