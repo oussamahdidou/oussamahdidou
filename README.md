@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **oussama.hdidou.pro@gmail.com**
 - 📄 Know about my experiences **https://oussamahdidou.vercel.app/**
-- 📄 Know about my experiences [My Resume](download_3.pdf)
-
 
 
 
